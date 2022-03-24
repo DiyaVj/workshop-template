@@ -1,4 +1,4 @@
-# Create VR World using A-Frame
+# Full Workshop Title
 
 ## Module Source Link
 
